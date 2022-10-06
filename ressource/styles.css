@@ -7,6 +7,7 @@ body {
     background-color: grey;
     font-family: Gill-Sans-MT;
     font-size: 3vh;
+    height: 100vh;
 }
 
 #grid-container {
