@@ -2,6 +2,8 @@
 
 This is a project on CSS Grid I have to made, and I was inspired by the game Lobotomy Corporation from Project Moon to make this. I made it like an official website of Lobotomy Corp.
 
+Github Page: https://sephiryah.github.io/Grid-away-grid-ahoy-/
+
 ##Who did this project?
 
 Nicolas (aka. Sephirah)
